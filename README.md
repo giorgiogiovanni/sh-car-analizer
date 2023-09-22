@@ -9,4 +9,7 @@ la evolución, la cantidad de coches que hay en el mercado y la permanencia
 que llevan, consultar dichos datos y de esta manera poder tomar decisiones
 de compra en sus plataformas de compra para profesionales.
 
-__CUMPLIMIENTO DE OBJETIVOS__: En el [documento](/doc/obj0/cumplimiento-obj-0.md) para tal efecto.
+## Planificación del Problema
+
+1. __HU__: [Historias de Usuario](/doc/obj1/o1-planificacion.md#1-historias-de-usuario)
+* __M__:[Milestones](/doc/obj1/o1-planificacion.md#2-milestones) o Hitos.
