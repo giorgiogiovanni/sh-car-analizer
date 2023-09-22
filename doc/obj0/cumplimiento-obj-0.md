@@ -1,4 +1,4 @@
-## OBJETIVO 0 
+## OBJETIVO 0
 
 ### LISTA DE VALIDACIÓN
 
