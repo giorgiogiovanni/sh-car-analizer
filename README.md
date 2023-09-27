@@ -2,11 +2,10 @@
 
 ## Descripción del problema
 
-Tengo un amigo cercano que posee un concesionario de compra/venta de vehículos.
-Ultimamente el mercado de compraventa está muy cambiante y necesitaría poder
-monitorizar algunos modelos objetivo en los que esté interesado para evaluar
-la evolución, la cantidad de coches que hay en el mercado y la permanencia
-que llevan, consultar dichos datos y de esta manera poder tomar decisiones
-de compra en sus plataformas de compra para profesionales.
+Soy el dueño de un concesionario de compra/venta de vehículos.
+Ultimamente el mercado de compra-venta está muy cambiante y tengo problemas para
+valorar la viabilidad de algunas oportunidades de compra. En algunas ocasiones
+es dificil valorar si el precio de una compra es adecuado, y casi imposible
+estimar el beneficio potencial con la variabilidad del mercado de segunda mano.
 
 __CUMPLIMIENTO DE OBJETIVOS__: En el [documento](/doc/obj0/cumplimiento-obj-0.md) para tal efecto.
