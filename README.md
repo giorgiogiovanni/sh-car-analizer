@@ -2,10 +2,14 @@
 
 ## Descripción del problema
 
-Soy el dueño de un concesionario de compra/venta de vehículos.
-Ultimamente el mercado de compra-venta está muy cambiante y tengo problemas para
-valorar la viabilidad de algunas oportunidades de compra. En algunas ocasiones
-es dificil valorar si el precio de una compra es adecuado, y casi imposible
-estimar el beneficio potencial con la variabilidad del mercado de segunda mano.
+Soy el dueño de un concesionario de compra/venta de vehículos. Últimamente el
+mercado de compra-venta está muy cambiante. A la hora de comprar vehículos,
+estos provienen fundamentalmente de subastas para profesionales. Debido al
+estado cambiante de los precios por tanta demanda, me es muy difícil establecer
+un límite hasta el que pujar y estimar el beneficio potencial que podría obtener
+dada una potencial según el estado actual del mercado de segunda mano.
 
-__CUMPLIMIENTO DE OBJETIVOS__: En el [documento](/doc/obj0/cumplimiento-obj-0.md) para tal efecto.
+En el mismo sentido, en ocasiones también obtengo vehículos mediante compra
+directa a propietarios o como parte del pago en una venta de otro vehículo. En
+estos casos se realiza una tasación y se ofrece un precio por el mismo,
+enfrentándome al mismo problema.
