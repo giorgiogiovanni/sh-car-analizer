@@ -2,7 +2,18 @@
 
 ## PLANIFICACION
 
-### __1. HISTORIAS DE USUARIO__
+### __1. USER JOURNEY__
+
+Soy Diego, el dueño de un concesionario de compra/venta de vehículos.
+En los últimos meses el mercado está muy cambiante, tanto para la compra como
+para la venta. Mis bases de operaciones son plataformas de subastas y ventas
+online.
+
+Cuando accedo a ellas, es muy tedioso comparar el estado de ambas por la
+cantidad ingente de información. Esto me hace muy complicado
+
+
+### __2. HISTORIAS DE USUARIO__
 
 <!--
 Hay que incluir los siguientos aspectos:
