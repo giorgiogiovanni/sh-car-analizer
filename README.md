@@ -4,13 +4,13 @@
 
 Soy el dueño de un concesionario de compra/venta de vehículos. Últimamente el
 mercado de compra-venta está muy cambiante. Tanto la compra como la venta las
-suelo realizar mediante plataformas online. En la mayoría de las ocasiones,
-es muy tedioso contrastar la información de éstas por el volumen de información
-y ofertas que hay, lo cual me supone un problema a la hora de sacar conclusiones
-acerca de dichas ofertas.
+suelo realizar mediante plataformas online, como
+[Coches.net](https://www.coches.net/segunda-mano/) o
+[MilAnuncios](https://www.milanuncios.com/motor/).
 
-
-## Planificación del Problema
-
-1. __HU__: [Historias de Usuario](/doc/obj1/o1-planificacion.md#1-historias-de-usuario)
-* __M__:[Milestones](/doc/obj1/o1-planificacion.md#2-milestones) o Hitos.
+En la mayoría de las ocasiones, es muy tedioso contrastar la información de
+éstas, tanto por el volumen de información como porque ésta está en muchos casos
+desestructurada. Extraer esta información me permitiría posteriormente
+procesarla de una manera más amable, pudiendo filtrarla, compararla e incluso
+realizar estimaciones respecto a precios en función de la antigüedad,
+kilometraje o algún otro parámetro de los mismos.
