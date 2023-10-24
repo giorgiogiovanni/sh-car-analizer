@@ -18,6 +18,6 @@ kilometraje o algún otro parámetro de los mismos.
 
 ## Estructura y planificación del proyecto
 
-+ [User Stories](/doc/o1-user_stories.md)
-+ [User Journeys](/doc/o1-user_journey.md)
-+ [Milestones](/doc/o1-milestones.md)
++ [User Stories](/docs/o1-user_stories.md)
++ [User Journeys](/docs/o1-user_journey.md)
++ [Milestones](/docs/o1-milestones.md)
