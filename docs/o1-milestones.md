@@ -1,6 +1,6 @@
 # MILESTONES
 
-#### [__M0__] Milestone0: Modelado del problema
+### [__M0__] Milestone0: Modelado del problema
 
 + __Objetivo:__ Realizar un análisis de las HUs para conseguir los elementos del
 dominio del problema.
@@ -8,7 +8,7 @@ dominio del problema.
 + __Viabilidad:__ Cuando sea aprobado por el product manager.
 
 
-#### [__M1__] Milestone1: Heurística para extraer datos de un modelo concreto
+### [__M1__] Milestone1: Heurística para extraer datos de un modelo concreto
 
 + __Objetivo:__ Realizar un análisis de una de las plataformas para conseguir,
 dado un modelo de vehículo, extraer todos aquellos que estén a la venta.
