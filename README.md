@@ -14,3 +14,10 @@ desestructurada. Extraer esta información me permitiría posteriormente
 procesarla de una manera más amable, pudiendo filtrarla, compararla e incluso
 realizar estimaciones respecto a precios en función de la antigüedad,
 kilometraje o algún otro parámetro de los mismos.
+
+
+## Estructura y planificación del proyecto
+
++ [User Stories](/docs/o1-user_stories.md)
++ [User Journeys](/docs/o1-user_journey.md)
++ [Milestones](/docs/o1-milestones.md)
