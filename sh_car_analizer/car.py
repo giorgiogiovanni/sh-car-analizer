@@ -1,7 +1,7 @@
 
 
-class Model(object):
-	"""Representa el Modelo de un coche"""
+class Modelo(object):
+	"""Representa los datos básicos de un coche"""
 	_marca: str = ''
 	_modelo: str = ''
 	_combustible: str = ''
