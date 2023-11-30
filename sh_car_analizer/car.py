@@ -1,3 +1,4 @@
+from extractor import InterfazExtractor
 
 
 class Modelo(object):
@@ -11,11 +12,14 @@ class Modelo(object):
 	_puertas: int = 0
 	_cambio_marchas: str = ''
 	_color: str = ''
-	_precio: float = 0.0
+	_extractors: List[InterfazExtractor] = []
 	
-	def __init__(self, arg):
+	def __init__(self, marca, modelo):
+		""" Se cargan los datos básicos para luego extraer 
+		la información común desde algún extractor de datos """
 		super(Model, self).__init__()
-		self.arg = arg
+		self._marca = marca
+		self._modelo = modelo
 
 
 
